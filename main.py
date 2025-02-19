@@ -1,4 +1,6 @@
+# Python file for scraping any dom website
 
+#used for only education purposes 
 import os
 import requests
 from bs4 import BeautifulSoup
