@@ -1,4 +1,4 @@
-Good do the same for this code to write a github read me file and repo name here is the code 
+
 import os
 import requests
 from bs4 import BeautifulSoup
