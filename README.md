@@ -14,6 +14,7 @@ A Python utility that converts web pages into portable HTML files by inlining al
 - Whitespace-formatted output
 - Single-file output generation
 ---
+```
 
 ## README.md
 
@@ -23,9 +24,6 @@ A Python utility that converts web pages into portable HTML files by inlining al
 ![License](https://img.shields.io/badge/License-MIT-green)
 ![Dependencies](https://img.shields.io/badge/dependencies-beautifulsoup4%20|%20requests-orange)
 
-![Python](https://img.shields.io/badge/Python-3.8%2B-blue)
-![License](https://img.shields.io/badge/License-MIT-green)
-![Dependencies](https://img.shields.io/badge/dependencies-beautifulsoup4%20|%20requests-orange)
 
 Website packaging tool for creating self-contained HTML documents.
 
