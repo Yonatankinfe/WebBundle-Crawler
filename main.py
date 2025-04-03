@@ -1,6 +1,8 @@
 # Python file for scraping any dom website
 
 #used for only education purposes 
+#it stores the html css andd javascripte code in a single file html file
+#Also the css and java scripte code formate it most of the time not in the correct format
 import os
 import requests
 from bs4 import BeautifulSoup
